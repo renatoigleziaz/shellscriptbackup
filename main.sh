@@ -6,11 +6,7 @@
 #  por       : Renato Igleziaz
 #  Em        : 1/8/2017
 #
-<<<<<<< HEAD
 #  Requerimentos : TAR, PV, DU, SPLIT, FIND 
-=======
-#  Requerimentos : TAG, PV, DU, SPLIT, FIND 
->>>>>>> 0431f16c488853acc7c8e9362ddb85c26439e0c2
 #
 
 # parametros suportados 
